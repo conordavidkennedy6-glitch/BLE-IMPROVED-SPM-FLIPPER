@@ -532,7 +532,7 @@ static const struct {
     {0xCB2FE7, "soundcore Motion X500"},
 
     // Custom debug popups
-    {0xD99CA1, "Flipper Zero"},
+    {0xD99CA1, "free fortnite pirate token"},
     {0x77FF67, "Free Robux"},
     {0xAA187F, "Free VBucks"},
     {0xDCE9EA, "Rickroll"},
